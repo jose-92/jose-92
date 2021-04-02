@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@josemar32270417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@josemar32270417" height="30" width="40" /></a>
+<a href="https://twitter.com/@josemar32270417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@josemar32270417" height="30" width="40" /></a><p>///</p>
 <a href="https://discord.gg/jose-92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jose-92" height="30" width="40" /></a>
 </p>
 
