@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is  <Jose Martinez/>  I am  front-end developer🎯📈 from Colombia . 
+Hello, my name is  Jose Martinez  I am  front-end developer🎯📈 from Colombia . 
 <!--
 **jose-92/jose-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
