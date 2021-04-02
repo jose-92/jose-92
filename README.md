@@ -7,7 +7,7 @@ I am currently working on the frontend part, I have experience with React and I 
 programming languages that I am currently familiar with are javascript and php. Some of the technologies that I know are html, css, sass.
 I like challenges, animations, and creating amazing dynamic user interfaces. Determined and goal oriented, great at working and collaborating with people
 
-📌 Languages and Tools
+📌 Languages and Tools<br/>
 Html5 CSS Javascript PHP React Sass
 <!--
 **jose-92/jose-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
