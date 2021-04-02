@@ -1,16 +1,14 @@
 ### Hi there 👋
-Hello, my name is  Jose Martinez  I am  front-end developer🎯📈 from Colombia . 
-<!--
-**jose-92/jose-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is  Jose Martinez  I am  front-end developer🎯📈 from Colombia .
 
-Here are some ideas to get you started:  About
+
 I am currently working on the frontend part, I have experience with React and I am currently studying Angular.
 programming languages that I am currently familiar with are javascript and php. Some of the technologies that I know are html, css, sass.
 I like challenges, animations, and creating amazing dynamic user interfaces. Determined and goal oriented, great at working and collaborating with people
+<!--
+**jose-92/jose-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...I am currently working on the frontend part, I have experience with React and I am currently studying Angular.
-programming languages that I am currently familiar with are javascript and php. Some of the technologies that I know are html, css, sass.
-I like challenges, animations, and creating amazing dynamic user interfaces. Determined and goal oriented, great at working and collaborating with people
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
