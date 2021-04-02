@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hello, my name is  Jose Martinez  I am  front-end developer🎯📈 from Colombia .
 
+About....
 
 I am currently working on the frontend part, I have experience with React and I am currently studying Angular.
 programming languages that I am currently familiar with are javascript and php. Some of the technologies that I know are html, css, sass.
